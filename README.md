@@ -2,6 +2,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<h4 align="center">"Throughout my career, I've had the opportunity to learn and develop analytical models from various business perspectives. Using tools like Excel, Power BI, SQL, and Python, I've analyzed historical data to derive valuable insights and make informed decisions. Additionally, I've applied machine learning techniques to develop predictive models and optimize business processes. My focus is on turning data into meaningful information that drives organizational success and operational efficiency"</h4>
 <!--
 **teotam14/teotam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
